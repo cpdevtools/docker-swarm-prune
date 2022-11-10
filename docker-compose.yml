@@ -1,0 +1,8 @@
+version: '3.8'
+services:
+  docker-prune:
+    image: docker-prune
+    container_name: docker-prune
+    build:
+      dockerfile: Dockerfile
+      context: .

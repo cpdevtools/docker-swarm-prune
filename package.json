@@ -1,0 +1,6 @@
+{
+    "name": "@cpdevtools/docker-swarm-prune",
+    "version": "0.0.1",
+    "private": true,
+    "repository": "https://github.com/cpdevtools/docker-swarm-prune"
+}
